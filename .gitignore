@@ -1,0 +1,56 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+Front-End/Example.Charge.SPA/dist
+Front-End/Example.Charge.SPA/tmp
+Front-End/Example.Charge.SPA/out-tsc
+# Only exists if Bazel was run
+Front-End/Example.Charge.SPA/bazel-out
+
+# dependencies
+Front-End/Example.Charge.SPA/node_modules
+
+# profiling files
+Front-End/Example.Charge.SPA/chrome-profiler-events*.json
+Front-End/Example.Charge.SPA/speed-measure-plugin*.json
+
+# IDEs and editors
+Front-End/Example.Charge.SPA/.idea
+Front-End/Example.Charge.SPA/.project
+Front-End/Example.Charge.SPA/.classpath
+Front-End/Example.Charge.SPA/.c9/
+Front-End/Example.Charge.SPA/*.launch
+Front-End/Example.Charge.SPA/.settings/
+Front-End/Example.Charge.SPA/*.sublime-workspace
+
+# IDE - VSCode
+Front-End/Example.Charge.SPA/.vscode/*
+Front-End/Example.Charge.SPA/!.vscode/settings.json
+Front-End/Example.Charge.SPA/!.vscode/tasks.json
+Front-End/Example.Charge.SPA/!.vscode/launch.json
+Front-End/Example.Charge.SPA/!.vscode/extensions.json
+Front-End/Example.Charge.SPA/.history/*
+
+# misc
+Front-End/Example.Charge.SPA/.sass-cache
+Front-End/Example.Charge.SPA/connect.lock
+Front-End/Example.Charge.SPA/coverage
+Front-End/Example.Charge.SPA/libpeerconnection.log
+Front-End/Example.Charge.SPA/npm-debug.log
+Front-End/Example.Charge.SPA/yarn-error.log
+Front-End/Example.Charge.SPA/testem.log
+Front-End/Example.Charge.SPA/typings
+
+# System Files
+Front-End/Example.Charge.SPA/.DS_Store
+Front-End/Example.Charge.SPA/Thumbs.db
+
+Front-End/Example.Charge.SPA/README.md
+
+Back-End/.vscode
+Back-End/.vscode/*
+Back-End/.vs
+Back-End/bin/
+Back-End/obj/
+Back-End/*.user
+Back-End/README.md
