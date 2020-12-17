@@ -19,4 +19,4 @@
 - npm install -g @angular/cli
 - localizar pasta AngularSPA
 - ng serve
-- caso tenha optado por Docker basta alterar na classe <b>person-phone-service</b> a variavel 'baseUrlDotNetRun' por 'baseUrlDocker'
+- caso tenha optado por Docker basta alterar na classe <i>person-phone-service</i> a variavel 'baseUrlDotNetRun' por 'baseUrlDocker'
