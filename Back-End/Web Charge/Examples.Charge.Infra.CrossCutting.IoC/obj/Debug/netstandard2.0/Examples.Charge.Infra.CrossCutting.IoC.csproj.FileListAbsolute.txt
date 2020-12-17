@@ -1,0 +1,16 @@
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.deps.json
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Application.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Domain.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Application.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Examples.Charge.Domain.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Examples.Charge.Infra.CrossCutting.IoC.pdb

@@ -1,0 +1,12 @@
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\bin\Debug\netstandard2.0\Examples.Charge.Application.deps.json
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\bin\Debug\netstandard2.0\Examples.Charge.Application.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\bin\Debug\netstandard2.0\Examples.Charge.Application.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\bin\Debug\netstandard2.0\Examples.Charge.Domain.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\bin\Debug\netstandard2.0\Examples.Charge.Domain.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\obj\Debug\netstandard2.0\Examples.Charge.Application.csprojAssemblyReference.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\obj\Debug\netstandard2.0\Examples.Charge.Application.AssemblyInfoInputs.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\obj\Debug\netstandard2.0\Examples.Charge.Application.AssemblyInfo.cs
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\obj\Debug\netstandard2.0\Examples.Charge.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\obj\Debug\netstandard2.0\Examples.Charge.Application.csproj.CopyComplete
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\obj\Debug\netstandard2.0\Examples.Charge.Application.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Application\obj\Debug\netstandard2.0\Examples.Charge.Application.pdb

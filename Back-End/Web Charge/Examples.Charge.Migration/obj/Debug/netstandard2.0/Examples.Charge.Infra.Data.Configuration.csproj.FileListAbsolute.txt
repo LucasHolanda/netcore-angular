@@ -1,0 +1,14 @@
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.deps.json
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Domain.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Domain.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.pdb
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.csprojAssemblyReference.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.AssemblyInfoInputs.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.AssemblyInfo.cs
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.csproj.CopyComplete
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.dll
+C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.pdb
