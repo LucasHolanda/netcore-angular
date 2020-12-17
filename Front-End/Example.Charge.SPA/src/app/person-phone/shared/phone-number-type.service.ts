@@ -3,8 +3,6 @@ import { HttpClient, HttpErrorResponse, HttpHeaders } from '@angular/common/http
 import { Observable, throwError } from 'rxjs';
 import { retry, catchError } from 'rxjs/operators';
 
-import { PhoneNumberType } from './phone-number-type';
-
 @Injectable({
   providedIn: 'root'
 })

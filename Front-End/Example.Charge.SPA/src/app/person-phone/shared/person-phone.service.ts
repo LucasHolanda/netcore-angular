@@ -48,7 +48,7 @@ export class PersonPhoneService {
       )
   }
 
-  // utualiza
+  // atualiza
   update(personPhone: PersonPhone): Observable<any> {
     return this.httpClient.put<any>(this.url, JSON.stringify(personPhone), this.httpOptions)
       .pipe(
@@ -57,7 +57,7 @@ export class PersonPhoneService {
       )
   }
 
-  // deleta 
+  // deleta
   delete(id: number, idType: number) {
     return this.httpClient.delete<any>(this.url + '/' + id + '/' + idType, this.httpOptions)
       .pipe(

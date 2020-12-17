@@ -10,10 +10,6 @@ namespace Examples.Charge.Domain.Aggregates.PersonAggregate
     public class PhoneNumberType
     {
         public int BusinessEntityID { get; set; }
-        //public int PhoneNumberTypeID { get; set; }
-
         public string Name { get; set; }
-
-        //public ICollection<IEventData> DomainEvents => throw new NotImplementedException();
     }
 }

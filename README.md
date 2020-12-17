@@ -1,22 +1,23 @@
 # .netcore-DDD-angular
 
 ### Back-End DB
-- criar usuario no banco de dados de acordo com arquivo <b>appsettings.json</b>
+- Criar usuario no banco de dados de acordo com arquivo <b>appsettings.json</b>
 
 ### Back-End Dotnet core 2.2
-- localizar via terminal aplicação <b>Examples.Charge.API</b>
-- dotnet restore
-- dotnet run
-- executar a rota <i>/api/example</i> no browser para Migrate do Database
+- Localizar via terminal aplicação <b>Examples.Charge.API</b>
+- Executar no terminal `dotnet restore`
+- Executar no terminal `dotnet run`
+- Navegar na rota `http://localhost:5000/api/example` para Migrate do Database
 
 ### Back-End Opcional Docker
-- localizar container do docker SQL (arquivo <b>docker-compose</b> fica na raiz do projeto)
-- localizar container do docker da Aplicação (arquivo <b>DockerFile</b> fica dentro aplicação <b>Examples.Charge.API</b>)
-- docker-compose up
-- alterar ConnectionString na classe <b>Startup.cs</b>
+- Localizar container do docker SQL (arquivo <b>docker-compose</b> fica na raiz do projeto)
+- Localizar container do docker da Aplicação (arquivo <b>DockerFile</b> fica dentro aplicação <b>Examples.Charge.API</b>)
+- Executar no terminal `docker-compose up`
+- Alterar ConnectionString na classe <b>Startup.cs</b>
 
 ### Front-End Angular 6
-- npm install -g @angular/cli
-- localizar pasta <b>Example.Charge.SPA</b>
-- ng serve
-- caso tenha optado por Docker alterar a variavel <i>baseUrlDotNetRun</i> por <i>baseUrlDocker</i> na classe <b>person-phone-service.ts</b> em <i>src/app/person-phone/shared</i>
+- Executar no terminal `npm install -g @angular/cli`
+- Localizar pasta <b>Example.Charge.SPA</b>
+- Executar no terminal `npm install` para instalar os pacotes
+- Executar no terminal `ng serve` para rodar aplicação em `http://localhost:4200/`
+- Caso tenha optado por Docker alterar a valor da prop <i>baseUrl</i>, trocar <i>baseUrlDotNetRun</i> por <i>baseUrlDocker</i> na classe <b>PersonPhoneService</b> em <i>src/app/person-phone/shared/person-phone-service.ts</i>

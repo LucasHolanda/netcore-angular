@@ -95,7 +95,11 @@ namespace Examples.Charge.Infra.Data.Configuration.Migrations
                 schema: "dbo",
                 table: "Person",
                 columns: new[] { "BusinessEntityID", "Name" },
-                values: new object[] { 1, "User One" });
+                values: new object[,] {
+                    { 1, "User One" }, 
+                    { 2, "User Two" },
+                    { 3, "User Three" }
+                    });
 
             migrationBuilder.InsertData(
                 schema: "dbo",

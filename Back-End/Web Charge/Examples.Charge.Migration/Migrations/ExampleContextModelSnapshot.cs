@@ -69,6 +69,16 @@ namespace Examples.Charge.Infra.Data.Configuration.Migrations
                         {
                             BusinessEntityID = 1,
                             Name = "User One"
+                        },                        
+                        new
+                        {
+                            BusinessEntityID = 2,
+                            Name = "User Two"
+                        },
+                        new
+                        {
+                            BusinessEntityID = 3,
+                            Name = "User Three"
                         });
                 });
 

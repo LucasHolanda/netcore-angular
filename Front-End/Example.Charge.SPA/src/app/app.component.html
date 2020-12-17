@@ -6,7 +6,7 @@
   </ol>
 </nav>
 <div class="container">
-  <div class="card list-car">
+  <div class="card">
     <h5 class="card-header">Lista de Contatos</h5>
     <div class="card-body">
       <table class="table">
@@ -36,7 +36,7 @@
     </div>
   </div>
 
-  <div class="card add-car">
+  <div class="card">
     <h5 class="card-header">Adicionar/Atualizar Contato</h5>
     <div class="card-body">
       <form id="add-form" (ngSubmit)="f.form.valid && savePersonPhone(f)" #f="ngForm" novalidate>
@@ -73,7 +73,7 @@
             <div *ngIf="!personPhone.phoneNumberTypeID">Tipo é obrigatória</div>
           </div>
         </div>
-        <button type="submit" class="btn btn-primary btn-add-car">Salvar</button>        
+        <button type="submit" class="btn btn-primary">Salvar</button>
       </form>
     </div>
   </div>
