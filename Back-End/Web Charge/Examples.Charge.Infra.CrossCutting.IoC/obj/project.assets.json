@@ -5440,23 +5440,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lucas.holanda\\.nuget\\packages\\": {},
+    "C:\\Users\\Luckas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.holanda\\Documents\\Projeto\\projeto_netcore_vscode\\projeto-examplo-master\\Web Charge\\Examples.Charge.Infra.CrossCutting.IoC\\Examples.Charge.Infra.CrossCutting.IoC.csproj",
+      "projectUniqueName": "D:\\Documents\\LUCAS\\projeto-teste-stefanini\\netcore-DDD-angular\\Back-End\\Web Charge\\Examples.Charge.Infra.CrossCutting.IoC\\Examples.Charge.Infra.CrossCutting.IoC.csproj",
       "projectName": "Examples.Charge.Infra.CrossCutting.IoC",
-      "projectPath": "C:\\Users\\lucas.holanda\\Documents\\Projeto\\projeto_netcore_vscode\\projeto-examplo-master\\Web Charge\\Examples.Charge.Infra.CrossCutting.IoC\\Examples.Charge.Infra.CrossCutting.IoC.csproj",
-      "packagesPath": "C:\\Users\\lucas.holanda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.holanda\\Documents\\Projeto\\projeto_netcore_vscode\\projeto-examplo-master\\Web Charge\\Examples.Charge.Infra.CrossCutting.IoC\\obj\\",
+      "projectPath": "D:\\Documents\\LUCAS\\projeto-teste-stefanini\\netcore-DDD-angular\\Back-End\\Web Charge\\Examples.Charge.Infra.CrossCutting.IoC\\Examples.Charge.Infra.CrossCutting.IoC.csproj",
+      "packagesPath": "C:\\Users\\Luckas\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\LUCAS\\projeto-teste-stefanini\\netcore-DDD-angular\\Back-End\\Web Charge\\Examples.Charge.Infra.CrossCutting.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lucas.holanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luckas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5468,12 +5468,13 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\lucas.holanda\\Documents\\Projeto\\projeto_netcore_vscode\\projeto-examplo-master\\Web Charge\\Examples.Charge.Application\\Examples.Charge.Application.csproj": {
-              "projectPath": "C:\\Users\\lucas.holanda\\Documents\\Projeto\\projeto_netcore_vscode\\projeto-examplo-master\\Web Charge\\Examples.Charge.Application\\Examples.Charge.Application.csproj"
+            "D:\\Documents\\LUCAS\\projeto-teste-stefanini\\netcore-DDD-angular\\Back-End\\Web Charge\\Examples.Charge.Application\\Examples.Charge.Application.csproj": {
+              "projectPath": "D:\\Documents\\LUCAS\\projeto-teste-stefanini\\netcore-DDD-angular\\Back-End\\Web Charge\\Examples.Charge.Application\\Examples.Charge.Application.csproj"
             },
-            "C:\\Users\\lucas.holanda\\Documents\\Projeto\\projeto_netcore_vscode\\projeto-examplo-master\\Web Charge\\Examples.Charge.Infra.Data\\Examples.Charge.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\lucas.holanda\\Documents\\Projeto\\projeto_netcore_vscode\\projeto-examplo-master\\Web Charge\\Examples.Charge.Infra.Data\\Examples.Charge.Infra.Data.csproj"
+            "D:\\Documents\\LUCAS\\projeto-teste-stefanini\\netcore-DDD-angular\\Back-End\\Web Charge\\Examples.Charge.Infra.Data\\Examples.Charge.Infra.Data.csproj": {
+              "projectPath": "D:\\Documents\\LUCAS\\projeto-teste-stefanini\\netcore-DDD-angular\\Back-End\\Web Charge\\Examples.Charge.Infra.Data\\Examples.Charge.Infra.Data.csproj"
             }
           }
         }
@@ -5486,6 +5487,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -5512,7 +5514,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

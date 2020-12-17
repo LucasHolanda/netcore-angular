@@ -12,3 +12,17 @@ C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.csproj.CopyComplete
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.dll
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.deps.json
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Domain.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Domain.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.csprojAssemblyReference.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.AssemblyInfoInputs.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.AssemblyInfo.cs
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.csproj.CoreCompileInputs.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.csproj.CopyComplete
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Migration\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.Configuration.pdb

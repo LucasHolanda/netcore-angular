@@ -52,12 +52,12 @@ export class AppComponent implements OnInit {
 
   // defini se será criado ou atualizado
   savePersonPhone(form: NgForm) {
-    var idAndTypeExists = Array.from(this.personPhones).filter((value) => {
+    const idAndTypeExists = Array.from(this.personPhones).filter((value) => {
       return value.businessEntityID == this.personPhone.businessEntityID
         && value.phoneNumberTypeID == this.personPhone.phoneNumberTypeID
     }).length;
 
-    var numberExists = Array.from(this.personPhones).filter((value) => {
+    const numberExists = Array.from(this.personPhones).filter((value) => {
       return value.phoneNumber == this.personPhone.phoneNumber;
     }).length;
 
@@ -102,6 +102,12 @@ export class AppComponent implements OnInit {
 
   // deleta
   deletePersonPhone(id: number, idType: number) {
+    const canDelete = this.personPhones.length > 1;
+    if (!canDelete) {
+      this.errorMessage("Não é possivel excluir este registro pois ele é o único!")
+      return;
+    }
+
     this.personPhoneService.delete(id, idType).subscribe(() => {
       this.successMessage();
       this.getAllPersonPhone();

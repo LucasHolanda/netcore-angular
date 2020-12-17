@@ -10,3 +10,15 @@ C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.csproj.CopyComplete
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.dll
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.deps.json
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\bin\Debug\netstandard2.0\Examples.Charge.Infra.Data.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\bin\Debug\netstandard2.0\Examples.Charge.Domain.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\bin\Debug\netstandard2.0\Examples.Charge.Domain.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.csprojAssemblyReference.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.AssemblyInfoInputs.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.AssemblyInfo.cs
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.csproj.CopyComplete
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Infra.Data\obj\Debug\netstandard2.0\Examples.Charge.Infra.Data.pdb

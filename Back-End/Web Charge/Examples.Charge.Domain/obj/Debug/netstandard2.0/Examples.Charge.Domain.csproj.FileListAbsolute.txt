@@ -7,3 +7,12 @@ C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.csproj.CoreCompileInputs.cache
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.dll
 C:\Users\lucas.holanda\Documents\Projeto\projeto_netcore_vscode\projeto-examplo-master\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\bin\Debug\netstandard2.0\Examples.Charge.Domain.deps.json
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\bin\Debug\netstandard2.0\Examples.Charge.Domain.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\bin\Debug\netstandard2.0\Examples.Charge.Domain.pdb
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.csprojAssemblyReference.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.AssemblyInfoInputs.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.AssemblyInfo.cs
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.dll
+D:\Documents\LUCAS\projeto-teste-stefanini\netcore-DDD-angular\Back-End\Web Charge\Examples.Charge.Domain\obj\Debug\netstandard2.0\Examples.Charge.Domain.pdb

@@ -74,6 +74,7 @@ namespace Examples.Charge.API
                 app.UseDeveloperExceptionPage();
             }
 
+            // Origem da Aplicacao Fron-Ent que irá fazer as requisições na API
             app.UseCors(option => option.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader());
             app.UseSwagger();
 
