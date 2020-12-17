@@ -3,7 +3,7 @@
 ### Back-End DB
 - Criar usuario no banco de dados de acordo com arquivo <b>appsettings.json</b>
 
-### Back-End Dotnet core 2.2
+### Back-End Dotnet Core 2.2 (Necessita do .NET Core 2.2 SDK e .NET Core 2.2 Runtime)
 - Localizar via terminal aplicação <b>Examples.Charge.API</b>
 - Executar no terminal `dotnet restore`
 - Executar no terminal `dotnet run`
@@ -15,7 +15,7 @@
 - Executar no terminal `docker-compose up`
 - Alterar ConnectionString na classe <b>Startup.cs</b>
 
-### Front-End Angular 6
+### Front-End Angular 
 - Executar no terminal `npm install -g @angular/cli`
 - Localizar pasta <b>Example.Charge.SPA</b>
 - Executar no terminal `npm install` para instalar os pacotes
